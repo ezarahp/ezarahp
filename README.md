@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezarahp
 - 👀 I’m interested in SQL & Python
 - 🌱 I’m currently learning how to use Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects :)
 - 📫 How to reach me ...
 
 <!---
